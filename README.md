@@ -141,7 +141,7 @@ Instagram Non-Followers Finder is a powerful userscript that helps you identify 
         </a>
         <p>or</p>
         <a href="https://violentmonkey.github.io/">
-          <img width="60" height="60" src="https://violentmonkey.github.io/static/vm-9ba072b4.png" alt="Violentmonkey" style="border-radius: 10px;"/>
+          <img width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvp7EsdzPyz0_fUHWBUrNwTmh80cK_RoQV9A&s" alt="Violentmonkey" style="border-radius: 10px;"/>
           <br />
           <b style="color:#4ac29a;">Violentmonkey</b>
         </a>
@@ -150,7 +150,7 @@ Instagram Non-Followers Finder is a powerful userscript that helps you identify 
         <h3>Step 2</h3>
         <p>Install the script from:</p>
         <a href="https://greasyfork.org/en/scripts/537246-instagram-non-followers-finder">
-          <img width="60" height="60" src="https://greasyfork.org/packs/media/images/blacklogo96-b2384000fca45aa17e45eb417cbcbb59.png" alt="Greasy Fork" style="border-radius: 10px;"/>
+          <img width="60" height="60" src="https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo512.png" alt="Greasy Fork" style="border-radius: 10px;"/>
           <br />
           <b style="color:#4ac29a;">Greasy Fork</b>
         </a>
