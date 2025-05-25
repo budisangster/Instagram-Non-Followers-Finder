@@ -24,8 +24,8 @@ A userscript that helps you identify Instagram users who don't follow you back, 
    - [Violentmonkey](https://violentmonkey.github.io/) (alternative for Chrome, Firefox)
 
 2. Install the script from one of these sources:
-   - [Greasy Fork](https://greasyfork.org/en/scripts/536539-instagram-non-followers-finder)
-   - [OpenUserJS](https://openuserjs.org/scripts/faizmuhhh/Instagram_Non-Followers_Finder)
+   - [Greasy Fork](https://greasyfork.org/en/scripts/537246-instagram-non-followers-finder)
+   - [OpenUserJS](https://openuserjs.org/scripts/budisangster/Instagram_Non-Followers_Finder)
    - Or directly from this repository: [instagram-non-followers.user.js](https://github.com/yourusername/Instagram-Non-Followers-Finder/raw/main/instagram-non-followers.user.js)
 
 ## How To Use
