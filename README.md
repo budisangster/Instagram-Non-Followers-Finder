@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4ac29a&height=120&section=header"/>
 </div>
 
-# Instagram Non-Followers Finder
+# Hi, I'm Muhammad Faiz! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Find+Non-Followers;Manage+Your+Instagram;Unfollow+with+Ease;Privacy+Focused+Tool" alt="Typing SVG" style="background-image: linear-gradient(to right, #4ac29a, #bdfff3);" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Instagram+Non-Followers+Finder;Find+Non-Followers;Manage+Your+Instagram;Unfollow+with+Ease;Privacy+Focused+Tool" alt="Typing SVG" style="background-image: linear-gradient(to right, #4ac29a, #bdfff3);" />
 </div>
 
 A powerful userscript that helps you identify which Instagram accounts you follow that don't follow you back.
@@ -21,6 +21,16 @@ A powerful userscript that helps you identify which Instagram accounts you follo
     <img src="https://img.shields.io/github/stars/budisangster/Instagram-Non-Followers-Finder?style=for-the-badge&color=4ac29a" alt="GitHub Stars">
   </a>
 </div>
+
+## 🧐 About
+
+Instagram Non-Followers Finder is a powerful userscript that helps you identify which Instagram accounts you follow that don't follow you back. It runs directly in your browser with a beautiful and user-friendly interface.
+
+* 🔭 Accurately detects non-followers with Instagram's own API
+* 🌱 Regular updates and new features
+* 👯 Privacy-focused - all data stays in your browser
+* 💬 Easy to use with intuitive controls
+* 📫 Customizable settings for your specific needs
 
 ## 🚀 Key Features
 
@@ -76,6 +86,16 @@ A powerful userscript that helps you identify which Instagram accounts you follo
     </td>
   </tr>
 </table>
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Tampermonkey">
+  <img src="https://img.shields.io/badge/Instagram_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram API">
+</div>
 
 ## 📥 Installation
 
@@ -138,6 +158,12 @@ A powerful userscript that helps you identify which Instagram accounts you follo
 - All processing happens locally in your browser
 - Your login credentials are never stored or transmitted
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=budisangster&repo=Instagram-Non-Followers-Finder&theme=vue&hide_border=true&title_color=4ac29a&icon_color=4ac29a" alt="Repo Stats">
+</div>
+
 ## 📄 License
 
 <div align="center">
@@ -146,7 +172,7 @@ A powerful userscript that helps you identify which Instagram accounts you follo
   </a>
 </div>
 
-## 👤 Author
+## 📫 Connect With Me
 
 <div align="center">
   <table>
@@ -164,9 +190,24 @@ A powerful userscript that helps you identify which Instagram accounts you follo
         <a href="https://github.com/budisangster">
           <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+        <a href="https://steamcommunity.com/id/budisangster">
+          <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"/>
+        </a>
+        <a href="https://budisangster.github.io">
+          <img src="https://img.shields.io/badge/Website-4ac29a?style=flat-square&logo=github-pages&logoColor=white" alt="Website"/>
+        </a>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/muhammadfaiz0817">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+  <a href="https://www.buymeacoffee.com/budisangster">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
 </div>
 
 <div align="center">
