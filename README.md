@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-4ac29a?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.3.0-4ac29a?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Maintained-Yes-4ac29a?style=flat-square" alt="Maintained">
   <img src="https://img.shields.io/badge/Made_with-❤️-4ac29a?style=flat-square" alt="Made with Love">
 </div>
